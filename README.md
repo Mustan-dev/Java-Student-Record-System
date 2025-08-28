@@ -110,6 +110,7 @@ Compiled `.class` files are located in the `out/` directory.
 javac src/*.java
 java -cp src Main
 
+---
 ### IDE Execution
 
 Open the project in **IntelliJ IDEA** and run `Main.java` using the configured run profile.
