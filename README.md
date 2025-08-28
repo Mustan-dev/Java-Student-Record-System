@@ -1,3 +1,47 @@
+### IDE Execution
+
+Open the project in **IntelliJ IDEA** and run `Main.java` using the configured run profile.
+
+---
+
+## 🎯 Learning Outcomes
+
+- Applied object-oriented design principles  
+- Practiced modular architecture and separation of concerns  
+- Strengthened IDE proficiency and Git workflow  
+- Delivered coursework with industry-standard documentation and formatting  
+- Integrated file I/O and validation logic in a real-world scenario
+
+---
+
+## 📦 Repository Standards
+
+- ✅ `.gitignore` configured for clean version control  
+- ✅ README includes structured documentation and visual assets  
+- ✅ Consistent naming conventions and code formatting  
+- ✅ Metadata retained for reproducibility and IDE compatibility
+
+---
+
+## 📖 License
+
+This project is licensed under the [MIT License](LICENSE) and is intended for educational and portfolio use.
+
+---
+
+## 👨‍💻 Author
+
+**Mustan** – SWE4201 Student  
+GitHub: [github.com/yourusername](https://github.com/yourusername)  
+Portfolio: *optional link here*
+
+---
+
+## 🙌 Acknowledgements
+
+Developed for **SWE4201 Task 3** under the guidance of course instructors.  
+Special thanks to peers for collaborative feedback and support throughout development.
+
 # 🎓 SWE4201 – Task 3: Java Student Record & Enrollment System
 
 This repository contains the completed submission for **Task 3** of the **SWE4201: Introduction to Software Development** module.  
