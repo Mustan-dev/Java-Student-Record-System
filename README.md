@@ -1,6 +1,9 @@
 # 🎓 SWE4201 – Task 3: Java Student Record & Enrollment System
 
-This repository contains the completed submission for **Task 3** of the **SWE4201: Introduction to Software Development** module. The project demonstrates a modular Java application designed to manage student records, course offerings, and enrollment workflows. It applies core principles of **object-oriented programming**, **modular architecture**, and **academic presentation standards**.
+This repository contains the completed submission for **Task 3** of the **SWE4201: Introduction to Software Development** module.  
+![Student System Output](image1.png)
+![Student System Output](image2.png)
+The project demonstrates a modular Java application designed to manage student records, course offerings, and enrollment workflows. It applies core principles of **object-oriented programming**, **modular architecture**, and **academic presentation standards**.
 
 ---
 
