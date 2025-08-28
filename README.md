@@ -145,8 +145,8 @@ This project is licensed under the [MIT License](LICENSE) and is intended for ed
 ## 👨‍💻 Author
 
 **Mustan** – SWE4201 Student  
-GitHub: [github.com/yourusername](https://github.com/yourusername)  
-Portfolio: *optional link here*
+GitHub: [github.com/yourusername](https://github.com/Mustan-dev)  
+
 
 ---
 
