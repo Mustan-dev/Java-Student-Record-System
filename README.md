@@ -1,7 +1,7 @@
 # 🎓 SWE4201 – Task 3: Java Student Record & Enrollment System
-![Java](https://img.shields.io/badge/Java-17+-yellow.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
+![Java](https://img.shields.io/badge/Java-17+-red.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 This repository contains the completed submission for **Task 3** of the **SWE4201: Introduction to Software Development** module.  
 ![Student and Course Management System – Main Menu](image1.png)  
